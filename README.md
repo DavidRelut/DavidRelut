@@ -27,7 +27,7 @@
 
 
 ![Top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=DavidRelut&show_icons=true&theme=radical)&nbsp;
-![Github-stats](https://github-readme-stats.vercel.app/api?username=DavidRelut&show_icons=true&theme=radical)
+![Github-stats](https://github-readme-stats.vercel.app/api?username=DavidRelut&show_icons=true&count_private=true&theme=radical)
 
 <br/>
 
