@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on my next skills   
   
 
-- 🌱 I’m currently learning Java and Spring Boot  
+- 🌱 I’m currently learning Angular2+.  
   
 
-- ❓ Ask me about anything related to MEAN stack and related technologies  
+- ❓ Ask me about anything related to JAMSTACK and related technologies  
   
 
 -  📫 How to reach me:
@@ -44,7 +44,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" height="50" />
 <img style="margin: 10px" src="https://prettier.io/icon.png" alt="Sequelize" height="50" />
 </div>
