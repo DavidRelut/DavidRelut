@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my next skills   
   
 
-- 🌱 I’m currently learning Angular2+.  
+- 🌱 I’m currently learning ReactJS.  
   
 
 - ❓ Ask me about anything related to JAMSTACK and related technologies  
